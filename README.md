@@ -1,6 +1,6 @@
 ### Heya, I'm Mark! (AKA Constcat) 👋
 
-![Mark's GitHub stats](https://github-readme-stats.vercel.app/api?username=Constcat&show_icons=true&theme=radical&hide_border=true")
+![Mark's GitHub stats](https://github-readme-stats.vercel.app/api?username=Constcat&show_icons=true&theme=radical&hide_border=true&count_private=true")
 
 <!--
 **Constcat/Constcat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
