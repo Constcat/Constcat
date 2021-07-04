@@ -1,6 +1,6 @@
 ### Heya, I'm Mark! (AKA Constcat) 👋
 
-![Constcat's GitHub stats](https://github-readme-stats.vercel.app/api?username=Constcat&show_icons=true&theme=radical)
+![Constcat's GitHub stats](https://github-readme-stats.vercel.app/api?username=Constcat&show_icons=true&theme=radical&hide_border=true")
 
 
 <!--
