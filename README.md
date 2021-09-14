@@ -26,7 +26,7 @@ const char *Constcat = """"{
 
 ---
 
-📊 **This Week I Spent My Time On** 
+📊 **I Spend My Time On** 
 
 ```text
 ⌚︎ Time Zone: North America, Canada
