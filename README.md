@@ -19,7 +19,7 @@ const char *Constcat[] = {
         textEditor = "Visual Studio 2019";
         devOps = "Docker🐳";
         };
-    currentFocus: "Extensively Learning C/C++";
+    currentFocus = "Extensively Learning C/C++";
 };
 ```
 
