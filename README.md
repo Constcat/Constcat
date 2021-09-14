@@ -29,7 +29,7 @@ const char *Constcat = """"{
 📊 **I Spend My Time On** 
 
 ```text
-⌚︎ Time Zone: North America, Canada
+⌚︎ Time Zone: North America, Canada (EST)
 
 💬 Programming Languages: 
 C/C++                                        ██████████████░░░░░░░░░░░   70% 
