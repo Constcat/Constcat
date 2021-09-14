@@ -12,7 +12,7 @@ std::cout << "Constcat#0001";
 ### A little more about me...  
 
 ```C++
-const char *Constcat = R"""" {
+const char *Constcat = R" {
     pronouns[] = {"He", "Him"};
     code[] = {"C/C++", "Rust", "Python"};
     char *technologies[] {
@@ -21,7 +21,7 @@ const char *Constcat = R"""" {
         };
     };
     currentFocus: "Extensively Learning C/C++",
-}"""";
+}";
 ```
 
 ---
