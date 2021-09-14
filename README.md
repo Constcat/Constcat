@@ -12,16 +12,16 @@ https://constcat.github.io/Github-Page/
 ### A little more about me...  
 
 ```C++
-const char *Constcat = {"
-    pronouns[] = {\"He", "Him\"};
-    code[] = {\"C/C++", "Rust", "Python\"};
-    char *technologies[] {
-        textEditor = \"Visual Studio 2019\";
-        devOps = \"Docker🐳\";
-        };
-    };
-    currentFocus: \"Extensively Learning C/C++\",
-"}NULL;
+const char *Constcat[] = {
+    pronouns[] = {"He", "Him"};,
+    code[] = {"C/C++", "Rust", "Python"};,
+    char *technologies[] {,
+        textEditor = "Visual Studio 2019";,
+        devOps = "Docker🐳";,
+        };,
+    };,
+    currentFocus: "Extensively Learning C/C++"
+};
 ```
 
 ---
