@@ -3,10 +3,10 @@
 <p><em>Seasoned C/C++ Programmer 
 </em></p>
 
-👇 Print my name in your console! 
+👇 Check out my website!
 
-```C++
-std::cout << "Constcat#0001";
+```HTML
+https://constcat.github.io/Github-Page/
 ```
 
 ### A little more about me...  
