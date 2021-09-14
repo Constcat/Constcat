@@ -12,7 +12,7 @@ https://constcat.github.io/Github-Page/
 ### A little more about me...  
 
 ```C++
-const char *Constcat = "{
+const char *Constcat = {"
     pronouns[] = {\"He", "Him\"};
     code[] = {\"C/C++", "Rust", "Python\"};
     char *technologies[] {
@@ -21,7 +21,7 @@ const char *Constcat = "{
         };
     };
     currentFocus: \"Extensively Learning C/C++\",
-}"NULL;
+"}NULL;
 ```
 
 ---
