@@ -1,4 +1,4 @@
-<h2> I'm Mark (AKA Constcat)! </h2>
+<h2> Heya, I'm Mark! (AKA Constcat) </h2>
 <img align='right' src="https://media2.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="230">
 <p><em>Seasoned C/C++ Programmer 
 </em></p>
