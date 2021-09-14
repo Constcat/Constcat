@@ -13,14 +13,13 @@ https://constcat.github.io/Github-Page/
 
 ```C++
 const char *Constcat[] = {
-    pronouns[] = {"He", "Him"};,
-    code[] = {"C/C++", "Rust", "Python"};,
-    char *technologies[] {,
-        textEditor = "Visual Studio 2019";,
-        devOps = "Docker🐳";,
-        };,
-    };,
-    currentFocus: "Extensively Learning C/C++"
+    pronouns = {"He", "Him"};
+    code = {"C/C++", "Rust", "Python"};
+    char *technologies[] {
+        textEditor = "Visual Studio 2019";
+        devOps = "Docker🐳";
+        };
+    currentFocus: "Extensively Learning C/C++";
 };
 ```
 
